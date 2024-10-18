@@ -7,8 +7,8 @@ ELASTICSEARCH_ENDPOINT = 'https://search-restaurants-evpmex3vepjedojnz653pu27vy.
 HEADERS = {"Content-Type": "application/json"}
 
 # Basic Auth Credentials
-USERNAME = 'adrian'
-PASSWORD = 'Adrian@12345'
+USERNAME = '*****'
+PASSWORD = '********'
 
 # Load data from JSON file
 with open("restaurants.json", "r") as file:
